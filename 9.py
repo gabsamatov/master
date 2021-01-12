@@ -10,4 +10,3 @@ while конец != 1:
         print(choice(yesornow))
 else:
     print('Сеанс ответов на вопросы закончен')
-
