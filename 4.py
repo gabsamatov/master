@@ -2,7 +2,5 @@
 import numpy as np
 import random
 
-
 print('Ответ:')
 print(np.mean(np.random.sample(100)))
-
